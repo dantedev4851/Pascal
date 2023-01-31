@@ -1,5 +1,4 @@
 Program tp2original;
-{103 - Décima, Durán, Perichon, Ramos}
 Uses crt;
 Const
      hexa:array[0..9]of string = ('****','***|','**|*','**||','*|**','*|*|','*||*','*|||','|***','|**|');
