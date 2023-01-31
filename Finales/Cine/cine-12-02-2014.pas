@@ -1,7 +1,7 @@
 program final_cine;
 uses crt;
 const
-    MAXIMO = 3; // para probar, luego colocar 12
+    MAXIMO = 3;
     MAXIMO_FILAS = 'C';
     MAXIMO_COLUMNAS = 5;
 type
